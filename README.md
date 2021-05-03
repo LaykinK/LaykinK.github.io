@@ -1,10 +1,12 @@
 ## Welcome to Laykin's Homepage!
 
+[More About Me](https://github.com/LaykinK/LaykinK.github.io#more-about-me)	[How I Learned](https://github.com/LaykinK/LaykinK.github.io#how-i-learned)	[]
+
 This is an excericise in working in GitHub and creating a personal site.
 
 I'm an Information Technology major, working towards a Bachelor of Science degree. This page is part of my Final Project for one of my classes.
 
-### More About Me!
+### More About Me
 
 I have been working with different languages such as Python, HTML, and JavaScript throughout the past year as part of my program.
 
