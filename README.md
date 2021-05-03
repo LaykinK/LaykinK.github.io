@@ -1,6 +1,6 @@
 ## Welcome to Laykin's Homepage!
 
-[More About Me](https://github.com/LaykinK/LaykinK.github.io#more-about-me)	[How I Learned](https://github.com/LaykinK/LaykinK.github.io#how-i-learned)	[]
+[More About Me](https://github.com/LaykinK/LaykinK.github.io#more-about-me)		[How I Learned](https://github.com/LaykinK/LaykinK.github.io#how-i-learned)			[How You Can Learn](https://github.com/LaykinK/LaykinK.github.io/blob/main/README.md#how-you-can-learn)
 
 This is an excericise in working in GitHub and creating a personal site.
 
