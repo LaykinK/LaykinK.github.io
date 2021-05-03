@@ -1,29 +1,57 @@
-## Welcome to GitHub Pages
+## Welcome to Laykin's Homepage!
 
-You can use the [editor on GitHub](https://github.com/LaykinK/LaykinK.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is an excericise in working in GitHub and creating a personal site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm an Information Technology major, working towards a Bachelor of Science degree. This page is part of my Final Project for one of my classes.
 
-### Markdown
+### More About Me!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have been working with different languages such as Python, HTML, and Java throughout the past year as part of my program.
 
+I have created many different programs, such as those with user input, those which read and open files, and many more.
+
+*Here is an example of a code I have written*:
+
+FizzBuzz Challenge
 ```markdown
-Syntax highlighted code block
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Fizz Buzz</title>
+<script>
 
-# Header 1
-## Header 2
-### Header 3
+function fizzbuzz() {
+	var display = document.getElementById('display');
+	var displayHTML = "";
+	for (i = 1; i < 101; i++) {
+		if (i % 3 == 0 && i % 5 == 0){
+			displayHTML += "fizzbuzz" + "<p>";
+		}
+		else if (i % 3 == 0){
+			displayHTML += "fizz" + "<p>";
+		} 
+		else if (i % 5 == 0) {
+			displayHTML += "buzz" + "<p>";
+		} 
+		else {
+			displayHTML += i + "<p>";
+		}
+	}
+	display.innerHTML = displayHTML;
+}
 
-- Bulleted
-- List
+</script>
 
-1. Numbered
-2. List
+</head>
 
-**Bold** and _Italic_ and `Code` text
+<body onload = "fizzbuzz()">
+<div id="display">
 
-[Link](url) and ![Image](src)
+</div>
+</body>
+
+</html>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
