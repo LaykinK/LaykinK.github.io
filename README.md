@@ -60,6 +60,8 @@ function fizzbuzz() {
 
 ### How I Learned
 
+![Python Programming Logo](/Documents/python-programming-launguage.png) ![w3schools Logo](/Documents/w3schools.jpeg) ![CodeAcademy Logo](/Documents/codeacademy.png)
+
 I learned Python through utilizing websites such as [pythonprogramming.net](https://pythonprogramming.net/introduction-to-python-programming/) and [w3schools.com](https://www.w3schools.com/python/default.asp), as well as practicing using the code through different challenges and excercises.  I learned JavaScript and HTML trhough using the website [codeacademy.com](https://www.codecademy.com/learn/learn-html), and also through practicing using excercises and challenges to put the knowledge of the code into practice and see personally how the code functioned and worked.
 
 ### How You Can Learn
