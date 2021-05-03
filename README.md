@@ -6,13 +6,13 @@ I'm an Information Technology major, working towards a Bachelor of Science degre
 
 ### More About Me!
 
-I have been working with different languages such as Python, HTML, and Java throughout the past year as part of my program.
+I have been working with different languages such as Python, HTML, and JavaScript throughout the past year as part of my program.
 
 I have created many different programs, such as those with user input, those which read and open files, and many more.
 
 *Here is an example of a code I have written*:
 
-FizzBuzz Challenge
+**FizzBuzz Challenge**
 ```markdown
 <!DOCTYPE html>
 <html>
@@ -54,11 +54,9 @@ function fizzbuzz() {
 </html>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### How I Learned!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LaykinK/LaykinK.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I learned Python through utilizing websites such as [pythonprogramming.net](https://pythonprogramming.net/introduction-to-python-programming/) and [w3schools.com](https://www.w3schools.com/python/default.asp), as well as practicing using the code through different challenges and excercises.  I learned JavaScript and HTML trhough using the website [codeacademy.com](https://www.codecademy.com/learn/learn-html), and also through practicing using excercises and challenges to put the knowledge of the code into practice and see personally how the code functioned and worked.
 
 ### Support or Contact
 
