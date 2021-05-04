@@ -1,8 +1,12 @@
 ## How I Learned
 
+[How You Can Learn](https://github.com/LaykinK/LaykinK.github.io/blob/main/How%20I%20Learned.md#how-you-can-learn)
+
 ![Python Programming Logo](/Documents/python-programming-launguage.png) ![w3schools Logo](/Documents/w3schools.jpeg) ![CodeAcademy Logo](/Documents/codeacademy.png)
 
 I learned Python through utilizing websites such as [pythonprogramming.net](https://pythonprogramming.net/introduction-to-python-programming/) and [w3schools.com](https://www.w3schools.com/python/default.asp), as well as practicing using the code through different challenges and excercises.  I learned JavaScript and HTML trhough using the website [codeacademy.com](https://www.codecademy.com/learn/learn-html), and also through practicing using excercises and challenges to put the knowledge of the code into practice and see personally how the code functioned and worked.
+
+Programming can be complicated, especially if you don't know about about the interworkings of the language you are using, and how to use that knowledge to create what you want and what you need to happen to get the code to function in the way that you want. It is very easy to get an error in the code, or something that you need to fix. Whether that is a mispelling, a formatting issue, or a syntax issues, it all means that your program will not function as you intended it to. 
 
 ### How You Can Learn
 
