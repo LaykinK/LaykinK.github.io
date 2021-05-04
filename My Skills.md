@@ -18,6 +18,52 @@
 - Creating programs with user interface
 - Debugging a program
 
+##### *Python Program*:
+
+**Recursion Turtle Graphics Challenge**
+
+Recursion in computer science is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem (as opposed to iteration). The approach can be applied to many types of problems, and recursion is one of the central ideas of computer science. To know more about recursion: [Recursion](https://en.wikipedia.org/wiki/Recursion).
+
+```
+#import turtle to make turtle graphics
+import turtle
+
+#import everything from turtle
+from turtle import *
+
+turtle.colormode(255)
+
+turtle.speed(0)
+
+#outline what to draw
+def draw(n, side, angle):
+
+    if n < 0:
+        return
+    
+    right(45)
+    forward(side)
+    right(angle)
+
+    draw(n-1, side, angle)
+
+for i in range(30):
+    turtle.circle(5*i)
+    turtle.circle(-5*i)
+    turtle.left(i)
+    b = i
+    if b> 51:
+        b = 51
+    turtle.color(i, 2*i, 5*i)
+
+#call the function
+draw(96, 300, 61)
+```
+
+When ran, the program looks like this:
+
+![Recursion Turtle Graphics](https://github.com/LaykinK/LaykinK.github.io/blob/main/Turtle%20Graphics.JPG)
+
 #### Adobe Technical Skills:
 - Adobe Photoshop
 - Adobe Lightroom
