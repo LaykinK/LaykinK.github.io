@@ -1,4 +1,4 @@
-## Welcome to Laykin's Homepage!
+# Welcome to Laykin's Homepage!
 
 [More About Me](https://github.com/LaykinK/LaykinK.github.io#more-about-me)
 
