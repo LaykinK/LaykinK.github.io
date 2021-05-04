@@ -20,11 +20,11 @@ I have created many different projects using AdobeIndesign and Photoshop, the fo
 
 Adobe InDesign:
 
-![Fire Safety Poster](/Documents/Internship/FireSafetyFlyer_Internship)
+![Fire Safety Poster](https://github.com/LaykinK/LaykinK.github.io/blob/main/FireSafetyFlyer_Internship.jpg)
 
 Adobe Photoshop:
 
-![Creative Collage](/This PC/Pictures/Laykin Kennemer/finalproject3_LaykinKennemer)
+![Creative Collage](https://github.com/LaykinK/LaykinK.github.io/blob/main/finalproject3_LaykinKennemer.png)
 
 #### Soft Skills:
 - Leadership
