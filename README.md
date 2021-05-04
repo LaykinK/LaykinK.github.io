@@ -24,7 +24,7 @@ I recently switched to the Information Technology program, and I am very excited
 
 I have created many different programs in Python, such as those with user input, those which read and open files, and many more.
 
-*Here is an example of a code I have written*:
+#### *Here is an example of a code I have written*:
 
 **FizzBuzz Challenge**
 
