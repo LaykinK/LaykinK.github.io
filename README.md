@@ -1,7 +1,9 @@
 ## Welcome to Laykin's Homepage!
 
 [More About Me](https://github.com/LaykinK/LaykinK.github.io#more-about-me)
+
 [Other Projects]()
+
 [How I Learned](https://github.com/LaykinK/LaykinK.github.io/blob/main/How%20I%20Learned.md#how-i-learned)       
 
 This is an excericise in working in GitHub and creating a personal site.
