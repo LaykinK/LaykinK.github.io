@@ -26,7 +26,7 @@ I have created many different programs in Python, such as those with user input,
 
 **FizzBuzz Challenge**
 
-The FizzBuzz Challenge is a known programming step, but the most common is the "Hello World" excercise. Fizz buzz is a number games where when counting to one hundred, a number divisible by 3 or 5 is replaced by Fizz or Buzz. Here is an article explaining more in detail how FizzBuzz works: [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz).
+The FizzBuzz Challenge is a known programming step, but the most common is the "Hello World" excercise. Fizz buzz is a number game where when counting to one hundred, a number divisible by 3 or 5 is replaced by Fizz or Buzz. Here is an article explaining more in detail how FizzBuzz works: [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz).
 
 ```markdown
 <!DOCTYPE html>
