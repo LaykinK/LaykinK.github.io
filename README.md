@@ -2,6 +2,8 @@
 
 [More About Me](https://github.com/LaykinK/LaykinK.github.io#more-about-me)
 
+[FizzBuzz Challenge](https://github.com/LaykinK/LaykinK.github.io/blob/main/README.md#here-is-an-example-of-a-code-i-have-written)
+
 **Other Pages**
 
 [Other Programs](https://github.com/LaykinK/LaykinK.github.io/blob/main/Other%20Programs.md#other-programs)
