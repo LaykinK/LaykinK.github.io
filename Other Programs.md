@@ -1,5 +1,9 @@
 ## Other Programs
 
+[Scalable Vector Graphics Challenge](https://github.com/LaykinK/LaykinK.github.io/blob/main/Other%20Programs.md#the-program-i-completed-using-html-only)
+
+[Cylinder Volume Calculation Challenge](https://github.com/LaykinK/LaykinK.github.io/blob/main/Other%20Programs.md#the-program-i-completed-using-python)
+
 I have created many different programs, some even in different languages.
 
 I have programmed in:
@@ -8,6 +12,7 @@ I have programmed in:
 - JavaScript
 
 The FizzBuzz Challenge on the homepage was completed utilizing JavaScript to create an HTML file.
+
 
 #### *The program I completed using HTML only*:
 
@@ -76,6 +81,7 @@ style="fill:yellow" filter="url(#f1)" >
 The completed program, when ran, looks like this:
 ![SVG Result](/Documents/SVGResult.jpg)
 
+
 #### *The program I completed using Python*:
 
 **Cylinder Volume Calculation Challenge**
@@ -113,5 +119,6 @@ def main():
 
 main()
 ```
+
 
 [Go Back Home](https://github.com/LaykinK/LaykinK.github.io#welcome-to-laykins-homepage)
