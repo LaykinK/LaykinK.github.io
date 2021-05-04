@@ -79,7 +79,8 @@ style="fill:yellow" filter="url(#f1)" >
 ```
 
 The completed program, when ran, looks like this:
-![SVG Result](/Documents/SVGResult.jpg)
+
+![SVG Result](https://github.com/LaykinK/LaykinK.github.io/blob/main/SVGResult.JPG)
 
 
 #### *The program I completed using Python*:
