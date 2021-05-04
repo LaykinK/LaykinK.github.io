@@ -13,7 +13,10 @@ I'm an Information Technology major, working towards a Bachelor of Science degre
 
 ### More About Me
 
-I have been working with different languages such as Python, HTML, and JavaScript throughout the past year as part of my program.
+I have been working with different languages such as:
+- Python
+- HTML
+- JavaScript
 
 I recently switched to the Information Technology program, and I am very excited to learn more languages, more aspects of Software Engineering, as well as gain a certificate for Cyber Security. I'm looking forward to one of my future classes, learning how to make iOS apps, as I could utilize that and other things I will learn on my resume for my career.
 
