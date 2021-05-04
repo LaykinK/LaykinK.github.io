@@ -12,6 +12,12 @@ Programming can be complicated, especially if you don't know about about the int
 
 Learning a new language takes dedication and commitment, and a mindset of taking in what you are learning, not just memorizing. It means actually understanding and comprehending how everything works and fits together in order to create what you want.
 
+The most basic program is known as the 'hello world' program, it is the most common initial step in programming, known as a proof of concept. To know more: ['hello world' program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
+
+```
+print("Hello, World!")
+```
+
 ### How You Can Learn
 
 1. Research different languages to see which one matches what you want to create
