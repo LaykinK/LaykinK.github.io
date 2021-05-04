@@ -18,11 +18,11 @@
 
 I have created many different projects using AdobeIndesign and Photoshop, the following are examples of things that I have created. The one from InDesign was created for an internship that I am in, it was created to promote a Fire Safety event being hosted by the organization, Central Missouri Community Action (CMCA). The one from Photoshop was created for a final project, it was a collage of many different elements made to look like one continuous image.
 
-Adobe InDesign:
+##### Adobe InDesign:
 
 ![Fire Safety Poster](https://github.com/LaykinK/LaykinK.github.io/blob/main/FireSafetyFlyer_Internship.jpg)
 
-Adobe Photoshop:
+##### Adobe Photoshop:
 
 ![Creative Collage](https://github.com/LaykinK/LaykinK.github.io/blob/main/finalproject3_LaykinKennemer.png)
 
