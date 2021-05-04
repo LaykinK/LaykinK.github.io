@@ -14,3 +14,6 @@ I learned Python through utilizing websites such as [pythonprogramming.net](http
    - Participate in the excercises available, this gives you practice in working with the code of the program.
    - Give yourself challenges to work towards and create, and try to execute it using your knowledge and finding what you don't already know.
 3. Keep working with the language, learning a language, especially a programming language, is like working a muscle, if you don't use it it will stop working as well. You need to use it in order to keep it!
+
+
+[Go Back Home](https://github.com/LaykinK/LaykinK.github.io#welcome-to-laykins-homepage)
