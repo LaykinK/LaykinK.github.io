@@ -2,7 +2,9 @@
 
 [More About Me](https://github.com/LaykinK/LaykinK.github.io#more-about-me)
 
-[Other Programs]()
+**Other Pages**
+
+[Other Programs](https://github.com/LaykinK/LaykinK.github.io/blob/main/Other%20Programs.md#other-programs)
 
 [How I Learned](https://github.com/LaykinK/LaykinK.github.io/blob/main/How%20I%20Learned.md#how-i-learned)       
 
@@ -28,7 +30,7 @@ I have created many different programs in Python, such as those with user input,
 
 The FizzBuzz Challenge is a known programming step, but the most common is the "Hello World" excercise. Fizz buzz is a number game where when counting to one hundred, a number divisible by 3 or 5 is replaced by Fizz or Buzz. Here is an article explaining more in detail how FizzBuzz works: [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz).
 
-```markdown
+```
 <!DOCTYPE html>
 <html>
 <head>
