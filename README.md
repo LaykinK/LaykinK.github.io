@@ -9,6 +9,8 @@ I'm an Information Technology major, working towards a Bachelor of Science degre
 
 [More About Me](https://github.com/LaykinK/LaykinK.github.io/blob/main/More%20About%20Me.md#more-about-me)
 
+[My Skills](https://github.com/LaykinK/LaykinK.github.io/blob/main/My%20Skills.md#my-skills)
+
 [Other Programs](https://github.com/LaykinK/LaykinK.github.io/blob/main/Other%20Programs.md#other-programs)
 
 [How I Learned](https://github.com/LaykinK/LaykinK.github.io/blob/main/How%20I%20Learned.md#how-i-learned)  
