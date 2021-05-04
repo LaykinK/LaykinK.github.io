@@ -57,5 +57,5 @@ function fizzbuzz() {
 ```
 
 When the program is ran, the result looks like this:
-![Fizz Buzz Result](/Documents/FizzBuzzResult.jpg)
+![Fizz Buzz Result](https://github.com/LaykinK/LaykinK.github.io/blob/main/FizzBuzzResult.JPG)
 
