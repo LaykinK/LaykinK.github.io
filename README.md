@@ -73,3 +73,5 @@ function fizzbuzz() {
 </html>
 ```
 
+When the program is ran, the result looks like this:
+![Fizz Buzz Result](/Documents/FizzBuzzResult.jpg)
