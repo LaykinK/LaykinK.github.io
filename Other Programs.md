@@ -9,7 +9,7 @@ I have programmed in:
 
 The FizzBuzz Challenge on the homepage was completed utilizing JavaScript to create an HTML file.
 
-*The program I completed using HTML only*:
+#### *The program I completed using HTML only*:
 
 **Scalable Vector Graphics Challenge**
 
@@ -76,7 +76,7 @@ style="fill:yellow" filter="url(#f1)" >
 The completed program, when ran, looks like this:
 ![SVG Result](/Documents/SVGResult.jpg)
 
-*The program I completed using Python*:
+#### *The program I completed using Python*:
 
 **Cylinder Volume Calculation Challenge**
 
